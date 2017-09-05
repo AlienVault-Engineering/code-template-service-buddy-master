@@ -1,8 +1,0 @@
-{
-  "application": "{{cookiecutter.application}}",
-  "role": "{{cookiecutter.role}}",
-  "service-type": "{{cookiecutter.service_type}}",
-  "service-parameters": {
-  },
-  "aws-resource-parameters":{}
-}
