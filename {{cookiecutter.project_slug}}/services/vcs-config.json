@@ -1,4 +1,6 @@
 {
-  "provider": "bitbucket",
-  "root-user":"bitbucket_root_user"
+  "provider": "{{cookiecutter.vcs_system}}",
+  "root-user":"{{cookiecutter.vcs_root_user}}",
+  "user":"{{cookiecutter.vcs_user}}",
+  "password":"{{cookiecutter.vcs_password}}"
 }

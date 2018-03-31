@@ -1,6 +1,8 @@
 {
-  "provider": "bamboo",
-  "bamboo-url": "",
+  "provider": "{{cookiecutter.build_system_provider}}",
+  "url": "{{cookiecutter.build_system_url}}",
+  "user":"{{cookiecutter.build_system_user}}",
+  "password":"{{cookiecutter.build_system_password}}",
   "build-templates": {
     "base-container": {
       "type": "infrastructure"
