@@ -1,5 +1,5 @@
 {
-  "provider": "{{cookiecutter.vcs_system}}",
+  "provider": "{{cookiecutter.vcs_provider}}",
   "root-user":"{{cookiecutter.vcs_root_user}}",
   "user":"{{cookiecutter.vcs_user}}",
   "password":"{{cookiecutter.vcs_password}}"
