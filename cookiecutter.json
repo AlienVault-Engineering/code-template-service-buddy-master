@@ -5,6 +5,8 @@
     "role": "role",
     "build_system_provider": "build_system_provider",
     "build_system_url": "build_system_url",
+    "build_system_user": "build_system_user",
+    "build_system_password": "build_system_password",
     "vcs_root_user": "vcs_root_user",
     "vcs_provider": "vcs_provider",
     "vcs_user": "vcs_user",
